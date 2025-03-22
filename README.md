@@ -17,7 +17,7 @@ conda install pytorch=1.11 torchvision cudatoolkit=11.3 -c pytorch
 pip install numpy matplotlib scikit-learn scikit-image opencv-python timm kornia einops pytorch_lightning
 ```
 ### Pre-trained Model
-- [Our model for NTIRE 2025 Shadow Removal Challenge ](https://drive.google.com/drive/folders/1NOVfiZWMWsfPxcphqqRRkuCuRCHZ2wim?usp=share_link).
+- [Our model for NTIRE 2025 Shadow Removal Challenge ](https://drive.google.com/drive/folders/1UkAM357Fcnv5EPousKBYRgmnr-aCtjLl?usp=share_link).
 
 
 ### Testing
